@@ -30,7 +30,7 @@ The project contains the following tasks:
 I am really thankful that I had an opportunity to work on such recommendations engine building where users can easily can recieve idea about new article per thier taste and interest. Data Scientist Udacity Nanodegree program has provided necessary lessons and helped to develop such skillset. I also get some idea from following resources when I need any clarification.
 
  * https://github.com/joshxinjie/Data_Scientist_Nanodegree/tree/master/ibm_recommendations
- * 
+ * https://github.com/AlexanderHipp/recommendation-engine-IBM-master-udacity-project
 
 
 
