@@ -5,11 +5,11 @@ This project analyzes the interactions that users have with articles on the IBM 
 To continue with our tasks the following Python libraries have been utilized.
 This project requires Python 3.x as well.
 
-*1. Nltk
-*2. Pandas
-*3. Progressbar
-*4. Seaborn
-*5. scikit-learn
+* Nltk
+* Pandas
+* Progressbar
+* Seaborn
+* scikit-learn
 
 
 # Tasks
